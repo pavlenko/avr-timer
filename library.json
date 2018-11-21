@@ -1,0 +1,15 @@
+{
+  "name": "Timer",
+  "description": "Timers abstraction layer for ATMega devices",
+  "keywords": "event system",
+  "authors": {
+    "name": "Eugeniy Pavlenko",
+    "email": "pavlenko.obs@gmail.com",
+    "url": "https://github.com/pavlenko"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pavlenko/avr-timer.git"
+  },
+  "version": "1.0.0"
+}
